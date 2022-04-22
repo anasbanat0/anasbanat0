@@ -11,8 +11,8 @@
    * twitter: @98aab
 ### :writing_hand: Blog Posts:
   <!-- BLOG-POST-LIST:START -->
-  - [Hello All!](https://dev.to/anasbanat0/hello-all-3ecd)
-  <!-- BLOG-POST-LIST:END -->
+- [Hello All!](https://dev.to/anasbanat0/hello-all-3ecd)
+<!-- BLOG-POST-LIST:END -->
   
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
