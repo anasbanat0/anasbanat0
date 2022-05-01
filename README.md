@@ -1,5 +1,5 @@
 ## Hi there, I'm Anas Banat. 👋
-### I am a backend-end developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> From Palestine.
+### I am a backend developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> From Palestine.
 ### :man_technologist: About Me:
 - 🔭 I’m currently working on becoming a better PHP-Laravel Developer.<br>
 - 🌱 I’m currently learning as much as I can to achieve that.<br>
